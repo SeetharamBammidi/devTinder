@@ -18,3 +18,4 @@ s2 e4 homework:
 -In your project root folder create file .gitignore  and add like node_module  then automaticall not showing changes in node module folder files.
 -Create a remote repo on github.com
 -Push all code to remote origin
+-My end done
