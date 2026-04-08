@@ -18,3 +18,11 @@ s2 e4 homework:
 -In your project root folder create file .gitignore  and add like node_module  then automaticall not showing changes in node module folder files.
 -Create a remote repo on github.com
 -Push all code to remote origin
+-Play with routes and route extension ex: /hello , /hello/2
+-Order of the routes matter a lot
+-Install post man app and make workspace/collection > test API call
+-Write logic to handle GET, POST, PATCH, DELETE API calls and test them on postman
+-Explore routing and use of ?, + , (), * in the routes
+-Use of regex in routes /a/, /.*fly$/
+-Reading the query params in the routes
+-Reading the dynamic routes
