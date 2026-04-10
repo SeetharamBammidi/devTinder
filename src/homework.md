@@ -26,3 +26,29 @@ s2 e4 homework:
 -Use of regex in routes /a/, /.*fly$/
 -Reading the query params in the routes
 -Reading the dynamic routes
+
+
+s2 e5
+
+-Multiple Route handlers - play with the code
+-next()
+-next function and errors along with  res.send()
+-app.use("/route",rH, [rH2,rH3, rH4, rH5]);
+-What is middleware ? why do we need it?
+-How express js basically handles requests behind the scenes
+-Difference b/w app.use() vs app.all()
+-Write a dummy auth middleware for admin
+-Write a dummy auth middleware all user routes except  /user/login
+
+
+
+s2 e6
+
+-Create a free cluster on MangoDB official website (mango Atlas)
+-Install mangoose library
+-Connect your application to the database "Connection-url"/devTinder
+-Call the connectionDB function and connect to database before starting application on 7777
+-Create a userSchema and usermodel
+-Create POST /signup API to add data to database
+-Push some documents using API calls from postman
+-Error Handling using try, catch
